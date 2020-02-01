@@ -1,6 +1,6 @@
 @echo off
 
-set gmpublish="Q:\SteamLibrary\steamapps\common\GarrysMod\bin\gmpublish.exe" &REM —> Path to your gmpublish.exe
+set gmpublish="Q:\SteamLibrary\steamapps\common\GarrysMod\bin\gmpublish.exe" &REM —> Paste path to your gmpublish.exe here!
 
 set GMA=%~1
 set Thumbnail=%~2
