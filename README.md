@@ -9,7 +9,7 @@ Instruction:
 1. Set path to your gmpublish.exe in .bat file
 2. Drag&Drop your .gma addon & .jpg thumbnail
 3. Have fun!
-—![Instruction](https://i.imgur.com/8KgbK5z.png)
+-![Instruction](https://i.imgur.com/8KgbK5z.png)
 
 Video Instruction here:
 ---
