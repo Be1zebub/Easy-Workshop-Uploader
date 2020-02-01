@@ -7,9 +7,9 @@ set Thumbnail=%~2
 
 echo Easy Workshop Uploader
 echo -------------------------------------
-echo gmpublish.exe: %gmpublish%
-echo .gma Addon: %GMA%
-echo Thumbnail image: %Thumbnail%
+echo Path to gmpublish.exe: %gmpublish%
+echo Path to .gma Addon: %GMA%
+echo Path to thumbnail image: %Thumbnail%
 echo -------------------------------------
 
 
