@@ -17,5 +17,5 @@ Video Instruction here:
 ---
 [![Watch the video](https://i.imgur.com/qGy6mXo.png)](https://youtu.be/JSEF2cHYn8I)
 
-###### Use an *easy_workshop_updater.bat* to update your addons.
-Just drag&drop .gma addon to *easy_workshop_updater.bat*
+#### Use an *easy_workshop_updater.bat* to update your addons.
+#### Just drag&drop .gma addon to *easy_workshop_updater.bat*
