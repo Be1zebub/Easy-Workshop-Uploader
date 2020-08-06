@@ -12,3 +12,4 @@ echo Path to thumbnail image: %Thumbnail%
 echo -------------------------------------
 
 "%gmpublish%" update -icon "%Thumbnail%" -id "%workshopid%"
+pause >nul
