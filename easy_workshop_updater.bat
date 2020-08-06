@@ -16,3 +16,4 @@ echo -------------------------------------
 
 
 "%gmpublish%" update -addon "%GMA%" -id "%workshopid%" -changes "%changes%"
+pause >nul
