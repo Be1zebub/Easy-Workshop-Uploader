@@ -14,3 +14,4 @@ echo -------------------------------------
 
 
 "%gmpublish%" create -addon "%GMA%" -icon "%Thumbnail%"
+pause >nul
